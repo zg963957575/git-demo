@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>我是zg分支</h1>
+    <h1>我是zg分支 aaaaooooooooooooaaa</h1>
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>

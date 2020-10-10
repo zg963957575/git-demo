@@ -1,5 +1,7 @@
 <template>
   <div class="home">
+    <p>李亚楠</p>
+    <h1>鱼尾</h1>
     <img alt="Vue logo" src="../assets/logo.png" />
     <HelloWorld msg="Welcome to Your Vue.js App" />
   </div>
